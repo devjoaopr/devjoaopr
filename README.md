@@ -7,31 +7,32 @@ Currently working with Spring Boot microservices and constantly learning more ab
 ## 🚀 Tech Stack
 
 ## Backend
-Java
-Spring Boot
-Spring Security
-JWT
-Apache Kafka
+Java,
+Spring Boot,
+Spring Security,
+JWT,
+Apache Kafka,
 REST APIs
 
 ## Frontend
-Angular
-TypeScript
-HTML
+Angular,
+TypeScript,
+HTML,
 CSS
 
 ## Database
-PostgreSQL
-Liquibase
-SQL
-Tools & Concepts
-Git
-Docker
-Microservices
-API Gateway
-Event-Driven Architecture
-Multi-Tenant Applications
-Expand and Contract Pattern
+PostgreSQL,
+Liquibase,
+SQL,
+
+## Tools & Concepts
+Git,
+Docker,
+Microservices,
+API Gateway,
+Event-Driven Architecture,
+Multi-Tenant Applications,
+Expand and Contract Pattern,
 
 ## 💼 What I'm Working On
 
