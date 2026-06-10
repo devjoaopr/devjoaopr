@@ -23,7 +23,7 @@ CSS
 ## Database
 PostgreSQL,
 Liquibase,
-SQL,
+SQL
 
 ## Tools & Concepts
 Git,
@@ -32,7 +32,7 @@ Microservices,
 API Gateway,
 Event-Driven Architecture,
 Multi-Tenant Applications,
-Expand and Contract Pattern,
+Expand and Contract Pattern
 
 ## 💼 What I'm Working On
 
@@ -53,7 +53,6 @@ Distributed systems fundamentals
 Software Architecture
 Distributed Systems
 Cloud Computing
-Kubernetes
 Event-Driven Systems
 Design Patterns
 Clean Architecture
