@@ -40,6 +40,11 @@ Event-Driven Architecture,
 Multi-Tenant Applications,
 Expand and Contract Pattern
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaopr&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopr&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
 ## 💼 What I'm Working On
 
 Currently helping develop a Spring Boot microservices platform.
