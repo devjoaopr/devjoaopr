@@ -7,12 +7,13 @@ Currently working with Spring Boot microservices and constantly learning more ab
 ## 🚀 Tech Stack
 
 ## Backend
-<p>  
 ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
+<p>  
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
 </p>
+
 ## Frontend
 <p>  
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg"/>
