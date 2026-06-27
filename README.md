@@ -71,22 +71,6 @@ Architecture
 Performance
 Microservices
 
-## ⚡ Fun Facts
-
-🥤 Probably running on Monster.
-
-🛹 I enjoy skateboarding.
-
-🏋️ Gym enthusiast.
-
-🎧 Coding is better with music.
-
-🐛 I've spent hours debugging something that turned out to be a NullPointerException.
-
-☕ Coffee is not optional.
-
-🌙 Some of my best solutions were found way too late at night.
-
 ## 📫 Connect With Me
 LinkedIn: [My Linkedin](https://www.linkedin.com/in/devjoaopr/)
 
