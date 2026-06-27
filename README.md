@@ -7,25 +7,27 @@ Currently working with Spring Boot microservices and constantly learning more ab
 ## 🚀 Tech Stack
 
 ## Backend
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>
 ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
 
 ## Frontend
-Angular,
-TypeScript,
-HTML,
-CSS
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"/>
 
 ## Database
-PostgreSQL,
-Liquibase,
-SQL
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg"/>
 
 ## Tools & Concepts
 Git,
 Docker,
+Liquibase,
 Microservices,
 API Gateway,
 Event-Driven Architecture,
