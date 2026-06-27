@@ -7,12 +7,10 @@ Currently working with Spring Boot microservices and constantly learning more ab
 ## 🚀 Tech Stack
 
 ## Backend
-Java,
-Spring Boot,
-Spring Security,
-JWT,
-Apache Kafka,
-REST APIs
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk),
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F),
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white),
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54),
 
 ## Frontend
 Angular,
