@@ -7,23 +7,27 @@ Currently working with Spring Boot microservices and constantly learning more ab
 ## 🚀 Tech Stack
 
 ## Backend
+<p>  
 ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"/>
-
+</p>
 ## Frontend
+<p>  
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"/>
+</p>
 
 ## Database
+<p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg"/>
-
+</p>
 ## Tools & Concepts
 Git,
 Docker,
