@@ -29,6 +29,7 @@ Currently working with Spring Boot microservices and constantly learning more ab
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg"/>
 </p>
+
 ## Tools & Concepts
 Git,
 Docker,
