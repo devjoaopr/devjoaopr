@@ -4,6 +4,15 @@ I'm João Pedro, a Junior Software Developer from Brazil 🇧🇷.
 
 Currently working with Spring Boot microservices and constantly learning more about software architecture, distributed systems and backend development.
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaopr&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopr&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+</p>
+
 ## 🚀 Tech Stack
 
 ## Backend
@@ -39,11 +48,6 @@ API Gateway,
 Event-Driven Architecture,
 Multi-Tenant Applications,
 Expand and Contract Pattern
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoaopr&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopr&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ## 💼 What I'm Working On
 
