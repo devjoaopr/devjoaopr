@@ -7,6 +7,7 @@ Currently working with Spring Boot microservices and constantly learning more ab
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjoaopr&theme=github-dark&hide_border=true"/>
 </p>
+
 ## 🚀 Tech Stack
 
 ## Backend
